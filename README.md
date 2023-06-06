@@ -8,4 +8,5 @@ python merge_image.py${input_image_file_name}${column_num}${row_num}${output_fil
 
 ## 비고:
 cut_image.py의 경우, 완전히 구현 완료
+
 merge_image.py의 경우, 2*2 경우 구현 완료. 3*3의 경우 완전하지 않음(속도문제)
